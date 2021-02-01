@@ -199,7 +199,7 @@ Git add your file and then commit your method!
 
 ```
 git add OnitamaBoard.java
-git commit -m "OnitamaBoard.flip method completed"
+git commit -m "OnitamaBoard.constructor method completed"
 ```
 
 ### Task 1.4: exchangeStyle Method
